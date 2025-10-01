@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Apartment in Downtown",
+    "type": "Apartment",
+    "location": "Downtown, City Center",
+    "price": 350000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1500,
+    "description": "Modern luxury apartment with stunning city views, located in the heart of downtown. Features include hardwood floors, stainless steel appliances, and access to building amenities."
+  },
+  {
+    "id": 2,
+    "title": "Spacious Family Home",
+    "type": "House",
+    "location": "Suburbs, Green Valley",
+    "price": 500000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqft": 2500,
+    "description": "Beautiful family home in a quiet neighborhood with large backyard, perfect for kids and pets. Recently renovated kitchen and bathrooms."
+  },
+  {
+    "id": 3,
+    "title": "Cozy Studio Apartment",
+    "type": "Studio",
+    "location": "University District",
+    "price": 150000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 600,
+    "description": "Perfect for students or young professionals. Close to public transportation, cafes, and shops. All utilities included in HOA fees."
+  },
+  {
+    "id": 4,
+    "title": "Modern Condo with Pool",
+    "type": "Condo",
+    "location": "Riverside, Waterfront",
+    "price": 425000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1200,
+    "description": "Stunning waterfront condo with access to pool, gym, and concierge service. Floor-to-ceiling windows with amazing views."
+  },
+  {
+    "id": 5,
+    "title": "Country Estate",
+    "type": "Estate",
+    "location": "Rural Area, Countryside",
+    "price": 950000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4000,
+    "description": "Expansive country estate on 5 acres of land. Features include guest house, horse stables, and private pond. Complete privacy and serenity."
+  }
+]
