@@ -1,0 +1,68 @@
+============================================================
+TELEGRAM BOT DEMO - Sample Outputs
+============================================================
+
+Command: /start
+------------------------------------------------------------
+👋 Welcome to the Property Bot!
+
+I can help you find your dream property. Here's what I can do:
+
+🔍 /list - Browse all available properties
+🔎 /search - Search properties by type
+📊 /stats - View property statistics
+ℹ️ /help - Show this help message
+
+Let's find your perfect home! 🏡
+
+============================================================
+Command: /list
+------------------------------------------------------------
+📋 Found 5 available properties:
+
+🏠 *Luxury Apartment in Downtown*
+📍 Location: Downtown, City Center
+🏷️ Type: Apartment
+💰 Price: $350,000
+🛏️ Bedrooms: 3
+🚿 Bathrooms: 2
+📐 Area: 1500 sqft
+📝 Description: Modern luxury apartment with stunning city views, located in the heart of downtown. Features include hardwood floors, stainless steel appliances, and access to building amenities.
+
+============================================================
+Command: /search House
+------------------------------------------------------------
+🔍 Found 1 House(s):
+
+🏠 *Spacious Family Home*
+📍 Location: Suburbs, Green Valley
+🏷️ Type: House
+💰 Price: $500,000
+🛏️ Bedrooms: 4
+🚿 Bathrooms: 3
+📐 Area: 2500 sqft
+📝 Description: Beautiful family home in a quiet neighborhood with large backyard, perfect for kids and pets. Recently renovated kitchen and bathrooms.
+
+============================================================
+Command: /stats
+------------------------------------------------------------
+📊 Property Statistics
+
+Total Properties: 5
+Average Price: $475,000
+Price Range: $150,000 - $950,000
+
+Properties by Type:
+  • Apartment: 1
+  • House: 1
+  • Studio: 1
+  • Condo: 1
+  • Estate: 1
+
+============================================================
+
+Note: This is a demonstration of bot outputs.
+To see these responses in Telegram, run the bot with:
+  python bot.py
+
+Make sure to set your TELEGRAM_BOT_TOKEN in .env first!
